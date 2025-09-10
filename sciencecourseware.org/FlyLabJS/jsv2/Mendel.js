@@ -83,10 +83,10 @@ function Mendel(repNum) {
       var spermNum = dadsGametes.length;
 
       // check to see that we don't have too many offspring types. */
-      if (eggNum*spermNum > 256) {
-         alert("Mating not possible. This mating could result in " + (eggNum*spermNum).toString() + " different genetic combinations!  Try a simpler cross.");
-         return -3;
-      }
+      // if (eggNum*spermNum > 256) {
+      //    alert("Mating not possible. This mating could result in " + (eggNum*spermNum).toString() + " different genetic combinations!  Try a simpler cross.");
+      //    return -3;
+      // }
 
       // pair every egg with every sperm to form the offspring genotypes
       for (i=0; i<eggNum; i++) {
