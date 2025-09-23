@@ -1,8 +1,5 @@
-# FlyLab JS Local
-A local version of FlyLab JS
+# FlyLab JS
+My copy of FlyLab JS, with my own improvements and modifications, hosted on GitHub Pages.
 
-Source code available
-
-Select binaries for Macs and Windows PCs are available
-
-Chromebook users: download the source code and unzip it, double-clicking the index.html file in folder to launch
+# License
+This is a non-official fork of the original project. The source code in this program was directly copied from [sciencecourseware.org](https://sciencecourseware.org/) via HTTrack and then modified by me. This program may only be used in exact way the original project was permitted to be used for. This program comes with absolutely NO WARRANTY. Commercial use is not permitted in any way; likewise, neither is any profitable use, except for educational purposes.
