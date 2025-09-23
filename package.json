@@ -6,7 +6,7 @@
   "scripts": {
     "test": "."
   },
-  "author": "Copyright © 2019, 2022, Robert A. Desharnais, Ph.D.",
+  "author": "Copyright © 2019, 2022, Robert A. Desharnais, Ph.D., Copyright © 2023-2025, Matthew J. Yang",
   "license": "ISC",
   "devDependencies": {
     "electron": "^30.0.3",
